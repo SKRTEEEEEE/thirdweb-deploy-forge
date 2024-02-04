@@ -1,3 +1,7 @@
+## Info
+
+- [Forge](https://github.com/foundry-rs/foundry/): Blazing fast, portable and modular toolkit for Ethereum application development written in Rust
+
 ## Getting Started
 
 Create a project using this example:
